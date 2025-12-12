@@ -1,24 +1,11 @@
-# Meus Exercícios Web 🚀
+# Meus Exercícios e Desafios Web 🚀
 
-Aqui estão meus exercícios de HTML, CSS e JavaScript.
-
-## 📚 Estrutura
-
-- **01-html-basico**: Conceitos fundamentais de HTML
-- **02-css-avancado**: Prática com CSS moderno
-- **03-javascript**: Fundamentos de JavaScript
-- **04-projeto-final**: Projeto completo integrando tudo
+Aqui estão meus exercícios e desafios do módulo 1 do curso de HTML5 e CSS3 na plataforma Curso em Video do Prof. Gustavo Guanabara
 
 ## 🛠️ Tecnologias
 
 - HTML5
 - CSS3
-- JavaScript ES6+
-
-## 📖 Como visualizar
-
-1. Baixe o projeto
-2. Abra o arquivo `index.html` de cada pasta no navegador
 
 ## 📧 Contato
 
