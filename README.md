@@ -11,12 +11,12 @@ Repositório onde armazeno **todos os exercícios, desafios e projetos** desenvo
 - Manter um **portfólio público** em construção.
 
 # 🧠 Aprendizados chaves até aqui
-Semântica HTML5 (header, nav, main, section, footer);
-Listas, links internos/externos e âncoras;
-Imagens responsivas com <picture> e srcset;
-Pseudo-classes :hover, :focus, :nth-child();
-Gradientes, sombras e @font-face;
-Publicação via GitHub Pages (em breve).
+- Semântica HTML5 (header, nav, main, section, footer);
+- Listas, links internos/externos e âncoras;
+- Imagens responsivas com <picture> e srcset;
+- Pseudo-classes :hover, :focus, :nth-child();
+- Gradientes, sombras e @font-face;
+- Publicação via GitHub Pages (em breve).
 
 # 🛠️ Tecnologias
 
@@ -36,4 +36,4 @@ Todos os feedbacks são bem-vindos — estou aqui para aprender!
 
 # 📬 Contato
 
-https://www.linkedin.com/in/everton-silva-9285bb241?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Everton_Silva-0077B5?logo=linkedin)](https://www.linkedin.com/in/everton-silva-9285bb241)
