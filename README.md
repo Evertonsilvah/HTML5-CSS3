@@ -18,20 +18,22 @@ Pseudo-classes :hover, :focus, :nth-child();
 Gradientes, sombras e @font-face;
 Publicação via GitHub Pages (em breve).
 
-#🛠️ Tecnologias
+# 🛠️ Tecnologias
 
 <img src="https://skillicons.dev/icons?i=html,css" height="30" alt="HTML5 e CSS3">
 
-#📊 Status do curso
+# 📊 Status do curso
 - ✅ Módulo 1 – (Fundamentos): Instalação de ferramentas, primeiros códigos HTML, parágrafos, títulos, semântica, imagens e links.
 - ⏳ Módulo 2 – (Estilização): Cores, tipografia, Google Fonts, modelo de caixas (Box Model), pseudo-classes e pseudo-elementos. (em andamento)
 - ⏳ Módulo 3 – (Organização e Projetos): Git, GitHub, hospedagem (GitHub Pages), e projetos práticos com HTML e CSS. (em breve)
 - ⏳ Módulo 4 - (Interatividade e Formulários): Uso de <iframe>, criação de formulários HTML5 (inputs, métodos GET/POST). (em breve)
 - ⏳ Módulo 5 - (Layout Moderno e Responsivo): Design Responsivo, Media Queries, Flexbox, Grid Layout, transições e animações, finalizando com um portfólio. (em breve)
 
-#🤝 Contribuições
+# 🤝 Contribuições
+
 Sinta-se à vontade para abrir Issues com sugestões ou Pull Requests corrigindo bugs.
 Todos os feedbacks são bem-vindos — estou aqui para aprender!
 
-#📬 Contato
+# 📬 Contato
+
 https://www.linkedin.com/in/everton-silva-9285bb241?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
